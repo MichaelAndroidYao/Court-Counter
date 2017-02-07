@@ -33,6 +33,8 @@ public class MainActivity extends AppCompatActivity {
     // Tracks the score for Team B
     int scoreTeamB = 0;
 
+    // TODO - Database work to persist values in the counter
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
