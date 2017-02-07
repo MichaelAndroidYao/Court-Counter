@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     int scoreTeamB = 0;
 
     // TODO - Database work to persist values in the counter
+    // TODO - refactor the buttons and their onclicklisteners
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
